@@ -1,0 +1,54 @@
+<component name="libraryTable">
+  <library name="activation-1.1">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/ActivityTestDay01/lib/activation-1.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/ActivityTestDay01/lib/activiti-bpmn-converter-5.13.jar!/" />
+      <root url="jar://$PROJECT_DIR$/ActivityTestDay01/lib/activiti-bpmn-layout-5.13.jar!/" />
+      <root url="jar://$PROJECT_DIR$/ActivityTestDay01/lib/activiti-bpmn-model-5.13.jar!/" />
+      <root url="jar://$PROJECT_DIR$/ActivityTestDay01/lib/activiti-common-rest-5.13.jar!/" />
+      <root url="jar://$PROJECT_DIR$/ActivityTestDay01/lib/activiti-engine-5.13.jar!/" />
+      <root url="jar://$PROJECT_DIR$/ActivityTestDay01/lib/activiti-json-converter-5.13.jar!/" />
+      <root url="jar://$PROJECT_DIR$/ActivityTestDay01/lib/activiti-rest-5.13.jar!/" />
+      <root url="jar://$PROJECT_DIR$/ActivityTestDay01/lib/activiti-simple-workflow-5.13.jar!/" />
+      <root url="jar://$PROJECT_DIR$/ActivityTestDay01/lib/activiti-spring-5.13.jar!/" />
+      <root url="jar://$PROJECT_DIR$/ActivityTestDay01/lib/aopalliance-1.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/ActivityTestDay01/lib/commons-dbcp-1.4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/ActivityTestDay01/lib/commons-email-1.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/ActivityTestDay01/lib/commons-fileupload-1.2.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/ActivityTestDay01/lib/commons-io-2.0.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/ActivityTestDay01/lib/commons-lang-2.4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/ActivityTestDay01/lib/commons-pool-1.5.4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/ActivityTestDay01/lib/h2-1.3.170.jar!/" />
+      <root url="jar://$PROJECT_DIR$/ActivityTestDay01/lib/hamcrest-core-1.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/ActivityTestDay01/lib/jackson-core-asl-1.9.9.jar!/" />
+      <root url="jar://$PROJECT_DIR$/ActivityTestDay01/lib/jackson-mapper-asl-1.9.9.jar!/" />
+      <root url="jar://$PROJECT_DIR$/ActivityTestDay01/lib/javaGeom-0.11.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/ActivityTestDay01/lib/jcl-over-slf4j-1.7.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/ActivityTestDay01/lib/jgraphx-1.10.4.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/ActivityTestDay01/lib/joda-time-2.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/ActivityTestDay01/lib/junit-4.11.jar!/" />
+      <root url="jar://$PROJECT_DIR$/ActivityTestDay01/lib/junit-4.12.jar!/" />
+      <root url="jar://$PROJECT_DIR$/ActivityTestDay01/lib/log4j-1.2.17.jar!/" />
+      <root url="jar://$PROJECT_DIR$/ActivityTestDay01/lib/mail-1.4.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/ActivityTestDay01/lib/mybatis-3.2.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/ActivityTestDay01/lib/mysql-connector-java.jar!/" />
+      <root url="jar://$PROJECT_DIR$/ActivityTestDay01/lib/org.restlet.ext.fileupload-2.0.15.jar!/" />
+      <root url="jar://$PROJECT_DIR$/ActivityTestDay01/lib/org.restlet.ext.jackson-2.0.15.jar!/" />
+      <root url="jar://$PROJECT_DIR$/ActivityTestDay01/lib/org.restlet.ext.servlet-2.0.15.jar!/" />
+      <root url="jar://$PROJECT_DIR$/ActivityTestDay01/lib/org.restlet-2.0.15.jar!/" />
+      <root url="jar://$PROJECT_DIR$/ActivityTestDay01/lib/slf4j-api-1.7.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/ActivityTestDay01/lib/slf4j-log4j12-1.7.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/ActivityTestDay01/lib/spring-aop-3.1.2.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/ActivityTestDay01/lib/spring-asm-3.1.2.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/ActivityTestDay01/lib/spring-beans-3.1.2.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/ActivityTestDay01/lib/spring-context-3.1.2.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/ActivityTestDay01/lib/spring-core-3.1.2.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/ActivityTestDay01/lib/spring-expression-3.1.2.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/ActivityTestDay01/lib/spring-jdbc-3.1.2.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/ActivityTestDay01/lib/spring-orm-3.1.2.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/ActivityTestDay01/lib/spring-tx-3.1.2.RELEASE.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
